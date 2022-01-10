@@ -114,3 +114,5 @@ apps:
     dh: 'khanlab/hippunfold'
   - gh: 'MICA-MNI/micapipe'
     dh: 'micalab/micapipe'
+  - gh: 'Deep-Mi/FastSurfer'
+    dh: 'deepmi/fastsurfer'
